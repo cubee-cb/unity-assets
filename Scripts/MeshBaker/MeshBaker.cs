@@ -3,6 +3,7 @@ using System.IO;
 using UnityEngine;
 using UnityEditor;
 
+#if UNITY_EDITOR
 public class MeshBaker : MonoBehaviour
 {
   public bool matchScale = false;
@@ -80,3 +81,4 @@ public class MeshBaker : MonoBehaviour
   }
 
 }
+#endif

@@ -2,6 +2,7 @@ using System;
 using System.IO;
 using UnityEngine;
 
+#if UNITY_EDITOR
 public class Screenshot : MonoBehaviour
 {
   public bool captureOnStart = false;
@@ -72,3 +73,4 @@ public class Screenshot : MonoBehaviour
   }
 
 }
+#endif
