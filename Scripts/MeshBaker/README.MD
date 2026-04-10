@@ -20,4 +20,5 @@ To use a Mesh Asset:
   - You can work around this by instead using a symlink that points back to the baked mesh. This way, the symlink has its own GUID that cannot be touched when the mesh data gets updated.
 
 ## Resources
+- [Mesh.CombineMeshes](https://docs.unity3d.com/6000.4/Documentation/ScriptReference/Mesh.CombineMeshes.html)
 - Random posts to figure out how the combiner stuff works.
