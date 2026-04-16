@@ -7,3 +7,4 @@ Various assets or tools I've made for use in Unity.
 
 ## Shaders
 - [retrop8](Shaders/retrop8) - A shader based on the rendering style of [picoCAD](https://johanpeitz.itch.io/picocad) and [PICO-8](https://www.lexaloffle.com/pico-8.php).
+- [Triplanar Simple Lit](Shaders/triplanar-simple-lit) - Triplanar shader with different textures.
