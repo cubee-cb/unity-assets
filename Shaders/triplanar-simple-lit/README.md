@@ -4,7 +4,7 @@ Edit of [Normal-Mapping-for-a-Triplanar-Shader](https://github.com/bgolus/Normal
 
 Triplanar shader for various things.
 
-## Features
+## Added Features
 - Textures and colour shift each for Floor, Walls, and Ceiling (top, sides, and botton)
 - Project from object position so texture is stable when translating object.
 
